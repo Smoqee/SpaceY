@@ -87,7 +87,7 @@ h2 {
     filter: grayscale(85%);
 }
 
-.planets {
+#planets {
     background-color: #bb8278;
     color: #F9FAF8;
     display: flex;
@@ -135,7 +135,7 @@ h5 {
     color: #e5e7eb;
 }
 
-.quote {
+#quote {
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
@@ -155,7 +155,7 @@ h4 {
     margin: 0;
 }
 
-.registration {
+#registration {
     background-color: #bb8278;
     display: flex;
     margin: 7% 15%;
@@ -181,7 +181,7 @@ h6 {
     margin: 0;
 }
 
-.registration button {
+#registration button {
     height: 40px;
     width: 160px;
     color: #F9FAF8;
